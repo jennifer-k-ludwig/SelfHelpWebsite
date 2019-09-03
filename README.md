@@ -2,6 +2,8 @@
 
 Website implemented with Express handlebars with a self-help theme.
 
+![website](https://www.youtube.com/watch?v=P_Z2CZDFUjQ&feature=youtu.be)
+
 ## Features
 ### Homepage
 Slideshow of inspirational nature photos.
