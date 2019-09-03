@@ -1,0 +1,82 @@
+/***Main***/
+body {
+	background-color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+}
+
+.outerDiv {
+	border-style: solid;
+	border-width: 5px;
+	border-color: gray;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.link {
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	color: white;
+}
+
+h3 {
+	 color: teal;
+}
+
+/***Home***/
+* {box-sizing:border-box}
+
+/* Slideshow container */
+/*Reference: https://www.w3schools.com/howto/howto_js_slideshow.asp*/
+.container {
+	border-style: solid;
+	border-width: 5px;
+	border-color: gray;
+	max-width: 600px;
+	position: relative;
+	margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+	display: none;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+	color: #f2f2f2;
+	font-size: 12px;
+	padding: 8px 12px;
+	position: absolute;
+	top: 0;
+}
+
+/***Have an Idea***/
+#video {
+	border-style: solid;
+	border-width: 5px;
+	border-color: gray;
+}
+
+.plan {
+	border-style: dotted;
+	border-color: gray;
+	padding: 10px 20px 10px;
+}
+
+/***Make a Plan***/
+.input {
+	width: 100%;
+	height: 100px;
+}
+
+/***Make it Happen***/
+.scrollbox {
+	border: none;
+	padding: 5px;
+	width: 400px;
+	height: 200px;
+	overflow: scroll;
+}
