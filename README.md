@@ -2,7 +2,7 @@
 
 Website implemented with JS Express handlebars with a self-help theme.
 
-![Website Demo](https://www.youtube.com/watch?v=P_Z2CZDFUjQ&feature=youtu.be)
+[Website Demo](https://www.youtube.com/watch?v=P_Z2CZDFUjQ&feature=youtu.be)
 
 ## Features
 ### Homepage
